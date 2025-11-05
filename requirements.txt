@@ -1,1 +1,4 @@
 argparse
+
+
+#sudo setcap cap_net_raw+eip /usr/bin/nmap # MÅ HA FOR VULN SCAN
