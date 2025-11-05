@@ -10,5 +10,5 @@ The idea behind this repository is to make scripts that can be modified and used
 ## Usage
 TBD
 
-## Disclamer
+## Disclaimer
 The tools in this repository is only to be used for legal research purposes and Capture The Flag events. We take no responsibility for unlawful usage of these tools.
